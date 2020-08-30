@@ -1,4 +1,5 @@
 some new text before ---> in master 
+some new text before --> changes in master2
 new master2 ---> new text
 some new text after
 more changes in master2
