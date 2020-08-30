@@ -1,3 +1,3 @@
-some new text before
+some new text before ---> in master 
 new master2 ---> new text
 some new text after
